@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Shiv</h1>
 <h3 align="center">A dedicated frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="![219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16](https://github.com/user-attachments/assets/8d3b36cd-12ec-465d-bc3b-23484de9196e)" />
-
 
 - 🔭 I’m currently working on [Ikea - clone (E-commerce web app)](https://shiv-ikea-clone.vercel.app/)
 
