@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bilgundishiv" target="blank"><img src="https://img.shields.io/twitter/follow/bilgundishiv?logo=twitter&style=for-the-badge" alt="bilgundishiv" /></a> </p>
 
-- 🔭 I’m currently working on [Ikea - clone (E-commerce web appp)](https://shiv-ikea-clone.vercel.app/)
+- 🔭 I’m currently working on [Ikea - clone (E-commerce web app)](https://shiv-ikea-clone.vercel.app/)
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shiv.bilgundi11@gmail.com**
 
-- ⚡ Fun fact **I am a Gamer as well as Developer**
+- ⚡ Fun fact **I am a Gamer as well as a Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
