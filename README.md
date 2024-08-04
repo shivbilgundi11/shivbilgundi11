@@ -138,8 +138,9 @@
 
 <p align="left"> <a href="https://twitter.com/bilgundishiv" target="blank"><img src="https://img.shields.io/twitter/follow/bilgundishiv?logo=twitter&style=for-the-badge" alt="bilgundishiv" /></a> </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shivbilgundi11&show_icons=true&locale=en" alt="shivbilgundi11" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shivbilgundi11&" alt="shivbilgundi11" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivbilgundi11&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivbilgundi11&show_icons=true&locale=en&layout=compact" alt="shivbilgundi11" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivbilgundi11&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivbilgundi11&&theme=tokyonight" alt="rishavchanda" /></p>
